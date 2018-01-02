@@ -1,4 +1,6 @@
 # [KWOC | KHARAGPUR WINTER OF CODE PROJECT REPORT](https://kwoc.kossiitkgp.in/)
+### Project Chosen: 
+[![screen shot 2018-01-02 at 7 09 38 pm](https://user-images.githubusercontent.com/30326830/34485444-be6661e6-eff0-11e7-8244-fdfc8e4de492.png)](https://github.com/rahul-da/Statistical_Modelling_Techniques)
 ### I did this project under guidance of [Rahul](https://github.com/rahul-da) as a part of KWOC in the month of December 2017.
 
 ## About KWoC:
